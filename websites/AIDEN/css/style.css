@@ -1,0 +1,23 @@
+div .container {
+    display: flex;
+}
+
+.flex-left{
+    justify-content: flex-start;
+}
+
+.flex-right{
+    justify-content: flex-end;
+}
+
+.flex-middle{
+    justify-content: center;
+}
+
+.flex-spaced-out{
+    justify-content: space-around;
+}
+
+.flex-spaced-out-no-margin{
+    justify-content: space-between;
+}
